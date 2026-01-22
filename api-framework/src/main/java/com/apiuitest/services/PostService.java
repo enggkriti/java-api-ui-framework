@@ -1,4 +1,4 @@
-package com.apiuitest.api.services;
+package com.apiuitest.services;
 
 import com.apiuitest.models.Post;
 import io.restassured.response.Response;

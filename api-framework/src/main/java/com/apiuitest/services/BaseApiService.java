@@ -1,4 +1,4 @@
-package com.apiuitest.api.services;
+package com.apiuitest.services;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;

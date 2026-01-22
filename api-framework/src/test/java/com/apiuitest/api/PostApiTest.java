@@ -1,10 +1,10 @@
-package com.apiuitest.api.tests;
+package com.apiuitest.api;
 
 import org.testng.annotations.Test;
 import com.apiuitest.base.ApiBaseTest;
 import com.apiuitest.data.TestDataProvider;
 import com.apiuitest.models.Post;
-import com.apiuitest.api.services.PostService;
+import com.apiuitest.services.PostService;
 import com.apiuitest.utils.ApiUtils;
 import io.restassured.response.Response;
 
