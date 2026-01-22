@@ -1,4 +1,4 @@
-package com.apiuitest.api.base;
+package com.apiuitest.base;
 
 import org.testng.annotations.BeforeClass;
 import com.apiuitest.config.ConfigReader;

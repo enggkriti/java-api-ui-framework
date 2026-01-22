@@ -1,4 +1,4 @@
-package com.apiuitest.ui.pages;
+package com.apiuitest.pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
