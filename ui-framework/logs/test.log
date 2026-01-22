@@ -1,0 +1,18 @@
+2026-01-22 00:43:00.896 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Browser started: ChromeDriver: chrome on mac (1db34a551765e06c4ebd1227e38adebf)
+2026-01-22 00:43:02.407 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Browser closed
+2026-01-22 00:43:04.484 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Browser started: ChromeDriver: chrome on mac (9253527b647436002f2553ffb6c40d06)
+2026-01-22 00:43:05.830 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Browser closed
+2026-01-22 00:43:22.732 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Browser started: ChromeDriver: chrome on mac (302040cefe3da1028ea214f8e0898ec2)
+2026-01-22 00:43:24.382 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Clicked on element: Proxy element for: DefaultElementLocator 'By.linkText: A/B Testing'
+2026-01-22 00:43:24.663 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Screenshot saved: ab_testing_page
+2026-01-22 00:43:24.844 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Browser closed
+2026-01-22 00:43:26.605 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Browser started: ChromeDriver: chrome on mac (7dc2864c6b7c69f2b8e0e09503cbf13c)
+2026-01-22 00:43:27.979 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Screenshot saved: home_page
+2026-01-22 00:43:28.255 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Browser closed
+2026-01-22 00:43:56.927 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Browser started: ChromeDriver: chrome on mac (0006b98161958e701a000a6933c97908)
+2026-01-22 00:43:58.420 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Clicked on element: Proxy element for: DefaultElementLocator 'By.linkText: A/B Testing'
+2026-01-22 00:43:58.637 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Screenshot saved: ab_testing_page
+2026-01-22 00:43:58.805 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Browser closed
+2026-01-22 00:44:00.735 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Browser started: ChromeDriver: chrome on mac (d6a6896968712e682b8f8e0becde9207)
+2026-01-22 00:44:02.117 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Screenshot saved: home_page
+2026-01-22 00:44:02.285 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Browser closed

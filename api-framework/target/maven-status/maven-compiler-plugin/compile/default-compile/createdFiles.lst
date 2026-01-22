@@ -1,0 +1,3 @@
+com/apiuitest/api/services/BaseApiService.class
+com/apiuitest/api/services/UserService.class
+com/apiuitest/api/services/PostService.class

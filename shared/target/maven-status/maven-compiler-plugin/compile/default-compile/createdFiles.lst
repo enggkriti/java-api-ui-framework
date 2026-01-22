@@ -1,0 +1,12 @@
+com/apiuitest/shared/builders/PostBuilder.class
+com/apiuitest/shared/config/ConfigReader.class
+com/apiuitest/shared/utils/ApiUtils.class
+com/apiuitest/shared/models/Company.class
+com/apiuitest/shared/builders/UserBuilder.class
+com/apiuitest/shared/factory/WebDriverFactory.class
+com/apiuitest/shared/utils/LoggerUtil.class
+com/apiuitest/shared/models/Post.class
+com/apiuitest/shared/utils/ScreenshotUtil.class
+com/apiuitest/shared/models/Address.class
+com/apiuitest/shared/models/User.class
+com/apiuitest/shared/models/Geo.class

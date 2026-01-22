@@ -1,0 +1,5 @@
+com/apiuitest/ui/pages/ABTestingPage.class
+com/apiuitest/ui/pages/HomePage.class
+com/apiuitest/ui/pages/BasePage.class
+com/apiuitest/ui/pages/AddRemoveElementsPage.class
+com/apiuitest/ui/pages/BasicAuthPage.class

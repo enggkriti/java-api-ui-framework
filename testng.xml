@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="API UI Test Suite" verbose="1">
+    <listeners>
+        <listener class-name="com.apiuitest.listeners.TestListener"/>
+    </listeners>
+    <test name="API Tests">
+        <classes>
+            <class name="com.apiuitest.api.PostApiTest"/>
+            <class name="com.apiuitest.api.UserApiTest"/>
+        </classes>
+    </test>
+    <test name="UI Tests">
+        <classes>
+            <class name="com.apiuitest.ui.WebUiTest"/>
+        </classes>
+    </test>
+</suite>
