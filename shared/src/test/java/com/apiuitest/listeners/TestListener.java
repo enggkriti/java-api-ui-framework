@@ -1,8 +1,8 @@
-package com.apiuitest.shared.listeners;
+package com.apiuitest.listeners;
 
 import org.testng.ITestListener;
 import org.testng.ITestResult;
-import com.apiuitest.shared.utils.LoggerUtil;
+import com.apiuitest.utils.LoggerUtil;
 
 public class TestListener implements ITestListener {
 

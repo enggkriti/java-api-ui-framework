@@ -1,6 +1,6 @@
-package com.apiuitest.shared.builders;
+package com.apiuitest.builders;
 
-import com.apiuitest.shared.models.Post;
+import com.apiuitest.models.Post;
 
 public class PostBuilder {
     private int userId;

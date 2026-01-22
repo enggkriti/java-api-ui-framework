@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-01-22T00:56:22 PST" name="Surefire suite" finished-at="2026-01-22T00:56:35 PST" duration-ms="12218">
+  <suite started-at="2026-01-22T01:12:34 PST" name="Surefire suite" finished-at="2026-01-22T01:12:44 PST" duration-ms="10110">
     <groups>
     </groups>
-    <test started-at="2026-01-22T00:56:22 PST" name="Surefire test" finished-at="2026-01-22T00:56:35 PST" duration-ms="12218">
+    <test started-at="2026-01-22T01:12:34 PST" name="Surefire test" finished-at="2026-01-22T01:12:44 PST" duration-ms="10110">
       <class name="com.apiuitest.ui.WebUiTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.apiuitest.ui.WebUiTest@5db45159]" started-at="2026-01-22T00:56:22 PST" name="setUp" finished-at="2026-01-22T00:56:28 PST" duration-ms="5587" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.apiuitest.ui.WebUiTest@3745e5c6]" started-at="2026-01-22T01:12:34 PST" name="setUp" finished-at="2026-01-22T01:12:38 PST" duration-ms="3898" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testABTestingPage()[pri:0, instance:com.apiuitest.ui.WebUiTest@5db45159]" started-at="2026-01-22T00:56:28 PST" name="testABTestingPage" finished-at="2026-01-22T00:56:31 PST" duration-ms="2628" status="PASS">
+        <test-method signature="testABTestingPage()[pri:0, instance:com.apiuitest.ui.WebUiTest@3745e5c6]" started-at="2026-01-22T01:12:38 PST" name="testABTestingPage" finished-at="2026-01-22T01:12:40 PST" duration-ms="1676" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testABTestingPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.apiuitest.ui.WebUiTest@5db45159]" started-at="2026-01-22T00:56:31 PST" name="tearDown" finished-at="2026-01-22T00:56:31 PST" duration-ms="218" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.apiuitest.ui.WebUiTest@3745e5c6]" started-at="2026-01-22T01:12:40 PST" name="tearDown" finished-at="2026-01-22T01:12:40 PST" duration-ms="212" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.apiuitest.ui.WebUiTest@5db45159]" started-at="2026-01-22T00:56:31 PST" name="setUp" finished-at="2026-01-22T00:56:33 PST" duration-ms="2099" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.apiuitest.ui.WebUiTest@3745e5c6]" started-at="2026-01-22T01:12:40 PST" name="setUp" finished-at="2026-01-22T01:12:43 PST" duration-ms="2478" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testHomePage()[pri:0, instance:com.apiuitest.ui.WebUiTest@5db45159]" started-at="2026-01-22T00:56:33 PST" name="testHomePage" finished-at="2026-01-22T00:56:34 PST" duration-ms="1501" status="PASS">
+        <test-method signature="testHomePage()[pri:0, instance:com.apiuitest.ui.WebUiTest@3745e5c6]" started-at="2026-01-22T01:12:43 PST" name="testHomePage" finished-at="2026-01-22T01:12:44 PST" duration-ms="1622" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHomePage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.apiuitest.ui.WebUiTest@5db45159]" started-at="2026-01-22T00:56:34 PST" name="tearDown" finished-at="2026-01-22T00:56:35 PST" duration-ms="133" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.apiuitest.ui.WebUiTest@3745e5c6]" started-at="2026-01-22T01:12:44 PST" name="tearDown" finished-at="2026-01-22T01:12:44 PST" duration-ms="184" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

@@ -5,8 +5,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import com.apiuitest.shared.config.ConfigReader;
-import com.apiuitest.shared.utils.LoggerUtil;
+import com.apiuitest.config.ConfigReader;
+import com.apiuitest.utils.LoggerUtil;
 import java.time.Duration;
 
 public class BasePage {

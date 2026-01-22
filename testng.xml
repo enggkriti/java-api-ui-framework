@@ -5,8 +5,8 @@
     </listeners>
     <test name="API Tests">
         <classes>
-            <class name="com.apiuitest.api.PostApiTest"/>
-            <class name="com.apiuitest.api.UserApiTest"/>
+            <class name="com.apiuitest.api.tests.PostApiTest"/>
+            <class name="com.apiuitest.api.tests.UserApiTest"/>
         </classes>
     </test>
     <test name="UI Tests">

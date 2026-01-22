@@ -1,4 +1,4 @@
-package com.apiuitest.shared.config;
+package com.apiuitest.config;
 
 import java.io.FileInputStream;
 import java.io.IOException;

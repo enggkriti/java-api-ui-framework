@@ -3,7 +3,7 @@ package com.apiuitest.api.services;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
-import com.apiuitest.shared.config.ConfigReader;
+import com.apiuitest.config.ConfigReader;
 
 public class BaseApiService {
     protected RequestSpecification request;

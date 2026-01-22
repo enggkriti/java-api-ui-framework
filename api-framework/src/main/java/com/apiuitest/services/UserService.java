@@ -1,6 +1,6 @@
 package com.apiuitest.api.services;
 
-import com.apiuitest.shared.models.User;
+import com.apiuitest.models.User;
 import io.restassured.response.Response;
 
 public class UserService extends BaseApiService {

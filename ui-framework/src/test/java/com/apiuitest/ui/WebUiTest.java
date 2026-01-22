@@ -1,9 +1,9 @@
 package com.apiuitest.ui;
 
 import org.testng.annotations.Test;
-import com.apiuitest.shared.base.UiBaseTest;
+import com.apiuitest.base.UiBaseTest;
 import com.apiuitest.ui.pages.HomePage;
-import com.apiuitest.shared.utils.ScreenshotUtil;
+import com.apiuitest.utils.ScreenshotUtil;
 
 public class WebUiTest extends UiBaseTest {
 

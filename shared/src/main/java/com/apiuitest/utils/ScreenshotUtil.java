@@ -1,4 +1,4 @@
-package com.apiuitest.shared.utils;
+package com.apiuitest.utils;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;

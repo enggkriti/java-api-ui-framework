@@ -1,9 +1,9 @@
-package com.apiuitest.shared.data;
+package com.apiuitest.data;
 
-import com.apiuitest.shared.builders.PostBuilder;
-import com.apiuitest.shared.builders.UserBuilder;
-import com.apiuitest.shared.models.Post;
-import com.apiuitest.shared.models.User;
+import com.apiuitest.builders.PostBuilder;
+import com.apiuitest.builders.UserBuilder;
+import com.apiuitest.models.Post;
+import com.apiuitest.models.User;
 
 public class TestDataProvider {
 

@@ -23,3 +23,17 @@
 2026-01-22 00:56:33.376 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Browser started: ChromeDriver: chrome on mac (fd2c5cbcc02628f64284b9d48ea732c5)
 2026-01-22 00:56:34.871 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Screenshot saved: home_page
 2026-01-22 00:56:35.013 [main] INFO  com.apiuitest.shared.utils.LoggerUtil - Browser closed
+2026-01-22 01:12:18.202 [main] INFO  com.apiuitest.utils.LoggerUtil - Browser started: ChromeDriver: chrome on mac (e2be8136490e8290c89cc9a5f8f88133)
+2026-01-22 01:12:19.847 [main] INFO  com.apiuitest.utils.LoggerUtil - Clicked on element: Proxy element for: DefaultElementLocator 'By.linkText: A/B Testing'
+2026-01-22 01:12:20.053 [main] INFO  com.apiuitest.utils.LoggerUtil - Screenshot saved: ab_testing_page
+2026-01-22 01:12:20.278 [main] INFO  com.apiuitest.utils.LoggerUtil - Browser closed
+2026-01-22 01:12:22.099 [main] INFO  com.apiuitest.utils.LoggerUtil - Browser started: ChromeDriver: chrome on mac (5183a1477db7ab514240851d4b4bd084)
+2026-01-22 01:12:23.404 [main] INFO  com.apiuitest.utils.LoggerUtil - Screenshot saved: home_page
+2026-01-22 01:12:23.586 [main] INFO  com.apiuitest.utils.LoggerUtil - Browser closed
+2026-01-22 01:12:38.721 [main] INFO  com.apiuitest.utils.LoggerUtil - Browser started: ChromeDriver: chrome on mac (a99f08e9c76abe7ed33038d555efa498)
+2026-01-22 01:12:40.171 [main] INFO  com.apiuitest.utils.LoggerUtil - Clicked on element: Proxy element for: DefaultElementLocator 'By.linkText: A/B Testing'
+2026-01-22 01:12:40.401 [main] INFO  com.apiuitest.utils.LoggerUtil - Screenshot saved: ab_testing_page
+2026-01-22 01:12:40.615 [main] INFO  com.apiuitest.utils.LoggerUtil - Browser closed
+2026-01-22 01:12:43.093 [main] INFO  com.apiuitest.utils.LoggerUtil - Browser started: ChromeDriver: chrome on mac (36ae6dd60b79e79c53f460899f3e33ae)
+2026-01-22 01:12:44.703 [main] INFO  com.apiuitest.utils.LoggerUtil - Screenshot saved: home_page
+2026-01-22 01:12:44.900 [main] INFO  com.apiuitest.utils.LoggerUtil - Browser closed

@@ -1,7 +1,7 @@
 package com.apiuitest.api.base;
 
 import org.testng.annotations.BeforeClass;
-import com.apiuitest.shared.config.ConfigReader;
+import com.apiuitest.config.ConfigReader;
 import io.restassured.RestAssured;
 
 public class ApiBaseTest {

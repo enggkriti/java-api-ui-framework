@@ -1,4 +1,4 @@
-package com.apiuitest.shared.models;
+package com.apiuitest.models;
 
 public class Geo {
     private double lat;

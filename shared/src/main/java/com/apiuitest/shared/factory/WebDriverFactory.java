@@ -1,10 +1,10 @@
-package com.apiuitest.shared.factory;
+package com.apiuitest.factory;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.edge.EdgeDriver;
-import com.apiuitest.shared.config.ConfigReader;
+import com.apiuitest.config.ConfigReader;
 
 public class WebDriverFactory {
     public static WebDriver createDriver() {

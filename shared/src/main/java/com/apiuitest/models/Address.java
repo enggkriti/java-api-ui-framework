@@ -1,4 +1,4 @@
-package com.apiuitest.shared.models;
+package com.apiuitest.models;
 
 public class Address {
     private String street;

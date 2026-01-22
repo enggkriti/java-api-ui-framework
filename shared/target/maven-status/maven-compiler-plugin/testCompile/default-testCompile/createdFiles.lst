@@ -1,4 +1,4 @@
-com/apiuitest/shared/data/TestDataProvider.class
-com/apiuitest/shared/base/UiBaseTest.class
-com/apiuitest/shared/base/ApiBaseTest.class
-com/apiuitest/shared/listeners/TestListener.class
+com/apiuitest/base/ApiBaseTest.class
+com/apiuitest/listeners/TestListener.class
+com/apiuitest/base/UiBaseTest.class
+com/apiuitest/data/TestDataProvider.class

@@ -1,11 +1,11 @@
 package com.apiuitest.api.tests;
 
 import org.testng.annotations.Test;
-import com.apiuitest.shared.base.ApiBaseTest;
-import com.apiuitest.shared.data.TestDataProvider;
-import com.apiuitest.shared.models.User;
+import com.apiuitest.base.ApiBaseTest;
+import com.apiuitest.data.TestDataProvider;
+import com.apiuitest.models.User;
 import com.apiuitest.api.services.UserService;
-import com.apiuitest.shared.utils.ApiUtils;
+import com.apiuitest.utils.ApiUtils;
 import io.restassured.response.Response;
 
 public class UserApiTest extends ApiBaseTest {

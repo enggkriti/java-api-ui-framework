@@ -1,10 +1,10 @@
-package com.apiuitest.shared.base;
+package com.apiuitest.base;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-import com.apiuitest.shared.factory.WebDriverFactory;
-import com.apiuitest.shared.utils.LoggerUtil;
+import com.apiuitest.factory.WebDriverFactory;
+import com.apiuitest.utils.LoggerUtil;
 
 public class UiBaseTest {
     protected WebDriver driver;

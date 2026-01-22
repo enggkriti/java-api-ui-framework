@@ -1,8 +1,8 @@
-package com.apiuitest.shared.utils;
+package com.apiuitest.utils;
 
 import io.restassured.response.Response;
 import static org.hamcrest.Matchers.*;
-import com.apiuitest.shared.utils.LoggerUtil;
+import com.apiuitest.utils.LoggerUtil;
 
 public class ApiUtils {
 

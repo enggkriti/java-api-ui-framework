@@ -1,6 +1,6 @@
 package com.apiuitest.api.services;
 
-import com.apiuitest.shared.models.Post;
+import com.apiuitest.models.Post;
 import io.restassured.response.Response;
 import java.util.List;
 

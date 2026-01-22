@@ -2,58 +2,58 @@
 <testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-01-22T00:56:16 PST" name="Surefire suite" finished-at="2026-01-22T00:56:20 PST" duration-ms="4168">
+  <suite started-at="2026-01-22T01:12:59 PST" name="Surefire suite" finished-at="2026-01-22T01:13:02 PST" duration-ms="3300">
     <groups>
     </groups>
-    <test started-at="2026-01-22T00:56:16 PST" name="Surefire test" finished-at="2026-01-22T00:56:20 PST" duration-ms="4168">
+    <test started-at="2026-01-22T01:12:59 PST" name="Surefire test" finished-at="2026-01-22T01:13:02 PST" duration-ms="3300">
       <class name="com.apiuitest.api.tests.UserApiTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.apiuitest.api.tests.UserApiTest@1c80e49b]" started-at="2026-01-22T00:56:16 PST" name="setUp" finished-at="2026-01-22T00:56:16 PST" duration-ms="12" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.apiuitest.api.tests.UserApiTest@2692b61e]" started-at="2026-01-22T01:12:59 PST" name="setUp" finished-at="2026-01-22T01:12:59 PST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testCreateUser()[pri:0, instance:com.apiuitest.api.tests.UserApiTest@1c80e49b]" started-at="2026-01-22T00:56:16 PST" name="testCreateUser" finished-at="2026-01-22T00:56:18 PST" duration-ms="2163" status="PASS">
+        <test-method signature="testCreateUser()[pri:0, instance:com.apiuitest.api.tests.UserApiTest@2692b61e]" started-at="2026-01-22T01:12:59 PST" name="testCreateUser" finished-at="2026-01-22T01:13:01 PST" duration-ms="1703" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCreateUser -->
-        <test-method signature="testDeleteUser()[pri:0, instance:com.apiuitest.api.tests.UserApiTest@1c80e49b]" started-at="2026-01-22T00:56:18 PST" name="testDeleteUser" finished-at="2026-01-22T00:56:18 PST" duration-ms="161" status="PASS">
+        <test-method signature="testDeleteUser()[pri:0, instance:com.apiuitest.api.tests.UserApiTest@2692b61e]" started-at="2026-01-22T01:13:01 PST" name="testDeleteUser" finished-at="2026-01-22T01:13:01 PST" duration-ms="181" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDeleteUser -->
-        <test-method signature="testGetAllUsers()[pri:0, instance:com.apiuitest.api.tests.UserApiTest@1c80e49b]" started-at="2026-01-22T00:56:18 PST" name="testGetAllUsers" finished-at="2026-01-22T00:56:18 PST" duration-ms="121" status="PASS">
+        <test-method signature="testGetAllUsers()[pri:0, instance:com.apiuitest.api.tests.UserApiTest@2692b61e]" started-at="2026-01-22T01:13:01 PST" name="testGetAllUsers" finished-at="2026-01-22T01:13:01 PST" duration-ms="122" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetAllUsers -->
-        <test-method signature="testGetUserById()[pri:0, instance:com.apiuitest.api.tests.UserApiTest@1c80e49b]" started-at="2026-01-22T00:56:18 PST" name="testGetUserById" finished-at="2026-01-22T00:56:18 PST" duration-ms="79" status="PASS">
+        <test-method signature="testGetUserById()[pri:0, instance:com.apiuitest.api.tests.UserApiTest@2692b61e]" started-at="2026-01-22T01:13:01 PST" name="testGetUserById" finished-at="2026-01-22T01:13:01 PST" duration-ms="79" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetUserById -->
-        <test-method signature="testUpdateUser()[pri:0, instance:com.apiuitest.api.tests.UserApiTest@1c80e49b]" started-at="2026-01-22T00:56:18 PST" name="testUpdateUser" finished-at="2026-01-22T00:56:19 PST" duration-ms="398" status="PASS">
+        <test-method signature="testUpdateUser()[pri:0, instance:com.apiuitest.api.tests.UserApiTest@2692b61e]" started-at="2026-01-22T01:13:01 PST" name="testUpdateUser" finished-at="2026-01-22T01:13:01 PST" duration-ms="364" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUpdateUser -->
       </class> <!-- com.apiuitest.api.tests.UserApiTest -->
       <class name="com.apiuitest.api.tests.PostApiTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.apiuitest.api.tests.PostApiTest@4d098f9b]" started-at="2026-01-22T00:56:19 PST" name="setUp" finished-at="2026-01-22T00:56:19 PST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.apiuitest.api.tests.PostApiTest@773f7880]" started-at="2026-01-22T01:13:01 PST" name="setUp" finished-at="2026-01-22T01:13:01 PST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testCreatePost()[pri:0, instance:com.apiuitest.api.tests.PostApiTest@4d098f9b]" started-at="2026-01-22T00:56:19 PST" name="testCreatePost" finished-at="2026-01-22T00:56:19 PST" duration-ms="162" status="PASS">
+        <test-method signature="testCreatePost()[pri:0, instance:com.apiuitest.api.tests.PostApiTest@773f7880]" started-at="2026-01-22T01:13:01 PST" name="testCreatePost" finished-at="2026-01-22T01:13:02 PST" duration-ms="138" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCreatePost -->
-        <test-method signature="testDeletePost()[pri:0, instance:com.apiuitest.api.tests.PostApiTest@4d098f9b]" started-at="2026-01-22T00:56:19 PST" name="testDeletePost" finished-at="2026-01-22T00:56:20 PST" duration-ms="462" status="PASS">
+        <test-method signature="testDeletePost()[pri:0, instance:com.apiuitest.api.tests.PostApiTest@773f7880]" started-at="2026-01-22T01:13:02 PST" name="testDeletePost" finished-at="2026-01-22T01:13:02 PST" duration-ms="150" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDeletePost -->
-        <test-method signature="testGetAllPosts()[pri:0, instance:com.apiuitest.api.tests.PostApiTest@4d098f9b]" started-at="2026-01-22T00:56:20 PST" name="testGetAllPosts" finished-at="2026-01-22T00:56:20 PST" duration-ms="126" status="PASS">
+        <test-method signature="testGetAllPosts()[pri:0, instance:com.apiuitest.api.tests.PostApiTest@773f7880]" started-at="2026-01-22T01:13:02 PST" name="testGetAllPosts" finished-at="2026-01-22T01:13:02 PST" duration-ms="91" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetAllPosts -->
-        <test-method signature="testGetPostById()[pri:0, instance:com.apiuitest.api.tests.PostApiTest@4d098f9b]" started-at="2026-01-22T00:56:20 PST" name="testGetPostById" finished-at="2026-01-22T00:56:20 PST" duration-ms="104" status="PASS">
+        <test-method signature="testGetPostById()[pri:0, instance:com.apiuitest.api.tests.PostApiTest@773f7880]" started-at="2026-01-22T01:13:02 PST" name="testGetPostById" finished-at="2026-01-22T01:13:02 PST" duration-ms="72" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetPostById -->
-        <test-method signature="testUpdatePost()[pri:0, instance:com.apiuitest.api.tests.PostApiTest@4d098f9b]" started-at="2026-01-22T00:56:20 PST" name="testUpdatePost" finished-at="2026-01-22T00:56:20 PST" duration-ms="338" status="PASS">
+        <test-method signature="testUpdatePost()[pri:0, instance:com.apiuitest.api.tests.PostApiTest@773f7880]" started-at="2026-01-22T01:13:02 PST" name="testUpdatePost" finished-at="2026-01-22T01:13:02 PST" duration-ms="339" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUpdatePost -->

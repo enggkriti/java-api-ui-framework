@@ -1,9 +1,9 @@
-package com.apiuitest.shared.builders;
+package com.apiuitest.builders;
 
-import com.apiuitest.shared.models.Address;
-import com.apiuitest.shared.models.Company;
-import com.apiuitest.shared.models.Geo;
-import com.apiuitest.shared.models.User;
+import com.apiuitest.models.Address;
+import com.apiuitest.models.Company;
+import com.apiuitest.models.Geo;
+import com.apiuitest.models.User;
 
 public class UserBuilder {
     private int id;
