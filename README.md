@@ -1,5 +1,9 @@
 # Java API/UI Testing Framework
 
+© 2026 Kriti Rastogi. All rights reserved.
+
+This framework is proprietary and may not be copied, distributed, or modified without explicit permission.
+
 A comprehensive testing framework built with Java 21, Selenium WebDriver, REST Assured, and TestNG for API and UI testing.
 
 ## Features
@@ -16,23 +20,35 @@ A comprehensive testing framework built with Java 21, Selenium WebDriver, REST A
 ## Project Structure
 
 ```
-src/
-├── main/java/com/apiuitest/
-│   ├── base/           # Base classes
-│   ├── builders/       # Test data builders
-│   ├── config/         # Configuration management
-│   ├── factory/        # WebDriver factory
-│   ├── models/         # Data models (User, Post, etc.)
-│   ├── pages/          # Page Object Model classes
-│   ├── services/       # API service classes
-│   └── utils/          # Utility classes
-└── test/java/com/apiuitest/
-    ├── api/            # API test classes
-    ├── base/           # Base test classes
-    ├── data/           # Test data providers
-    ├── listeners/      # TestNG listeners
-    ├── ui/             # UI test classes
-    └── utils/          # Test utilities
+java-api-ui-framework/
+├── api-framework/
+│   ├── src/main/java/com/apiuitest/
+│   │   ├── services/       # API service classes (PostService, etc.)
+│   │   └── models/         # API data models (Post, User, etc.)
+│   ├── src/test/java/com/apiuitest/
+│   │   └── api/            # API test classes (PostApiTest, etc.)
+│   └── pom.xml
+├── ui-framework/
+│   ├── src/main/java/com/apiuitest/
+│   │   ├── factory/        # WebDriver factory
+│   │   └── pages/          # Page Object Model classes (BasePage, etc.)
+│   ├── src/test/java/com/apiuitest/
+│   │   └── ui/             # UI test classes
+│   └── pom.xml
+├── shared/
+│   ├── src/main/java/com/apiuitest/
+│   │   ├── builders/       # Test data builders
+│   │   ├── config/         # Configuration management (ConfigReader)
+│   │   ├── models/         # Shared data models
+│   │   └── utils/          # Utility classes (LoggerUtil, ApiUtils, etc.)
+│   ├── src/test/java/com/apiuitest/
+│   │   ├── base/           # Base test classes (ApiBaseTest, UiBaseTest)
+│   │   ├── data/           # Test data providers (TestDataProvider)
+│   │   └── listeners/      # TestNG listeners
+│   └── pom.xml
+├── pom.xml                  # Parent POM
+├── testng.xml
+└── README.md
 ```
 
 ## Prerequisites
@@ -43,7 +59,7 @@ src/
 
 ## Configuration
 
-Update `src/test/resources/config.properties`:
+Update `shared/src/test/resources/config.properties`:
 
 ```properties
 base.url=https://jsonplaceholder.typicode.com
@@ -55,7 +71,8 @@ timeout=10
 
 ### Compile and Test
 ```bash
-mvn clean compile test
+mvn clean install
+mvn test
 ```
 
 ### Run Specific Test Suite
@@ -105,9 +122,9 @@ public void testHomePage() {
 
 ## Browser Setup
 
-For Chrome: Download ChromeDriver matching your Chrome version
-For Firefox: Download GeckoDriver
-For Edge: Download MSEdgeDriver
+- **Chrome**: Download ChromeDriver matching your Chrome version
+- **Firefox**: Download GeckoDriver
+- **Edge**: Download MSEdgeDriver
 
 Place drivers in system PATH or configure in WebDriverFactory.
 
@@ -134,14 +151,8 @@ cd java-api-ui-framework
 mvn clean install
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+© 2026 Kriti Rastogi. All rights reserved.
+
+This framework is proprietary and may not be copied, distributed, or modified without explicit permission.
