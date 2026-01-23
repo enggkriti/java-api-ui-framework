@@ -37,3 +37,10 @@
 2026-01-22 01:12:43.093 [main] INFO  com.apiuitest.utils.LoggerUtil - Browser started: ChromeDriver: chrome on mac (36ae6dd60b79e79c53f460899f3e33ae)
 2026-01-22 01:12:44.703 [main] INFO  com.apiuitest.utils.LoggerUtil - Screenshot saved: home_page
 2026-01-22 01:12:44.900 [main] INFO  com.apiuitest.utils.LoggerUtil - Browser closed
+2026-01-23 00:44:38.728 [main] INFO  com.apiuitest.utils.LoggerUtil - Browser started: ChromeDriver: chrome on mac (c636f9fa2033085e986a3b7cc4a05466)
+2026-01-23 00:44:41.741 [main] INFO  com.apiuitest.utils.LoggerUtil - Clicked on element: Proxy element for: DefaultElementLocator 'By.linkText: A/B Testing'
+2026-01-23 00:44:42.004 [main] INFO  com.apiuitest.utils.LoggerUtil - Screenshot saved: ab_testing_page
+2026-01-23 00:44:42.316 [main] INFO  com.apiuitest.utils.LoggerUtil - Browser closed
+2026-01-23 00:44:44.314 [main] INFO  com.apiuitest.utils.LoggerUtil - Browser started: ChromeDriver: chrome on mac (6b8baaa17af1af094498fcbe357f779d)
+2026-01-23 00:44:45.804 [main] INFO  com.apiuitest.utils.LoggerUtil - Screenshot saved: home_page
+2026-01-23 00:44:46.103 [main] INFO  com.apiuitest.utils.LoggerUtil - Browser closed
